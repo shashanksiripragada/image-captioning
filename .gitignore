@@ -1,2 +1,3 @@
 *.pyc
 datasets/coco_captioning/*
+.ipynb_checkpoints
